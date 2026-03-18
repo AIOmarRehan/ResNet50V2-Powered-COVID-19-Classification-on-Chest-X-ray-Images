@@ -1,3 +1,8 @@
+[Medium Article for this Project](https://medium.com/p/766648ac32a4?postPublishedType=initial)
+
+[Hugging Face Deployment for this Project](https://huggingface.co/spaces/AIOmarRehan/resnet50v2-covid-xray-heatmap)
+
+---
 # ResNet50V2 COVID 19 Radiography Classification
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
@@ -224,3 +229,7 @@ Performance is optimized through caching of the gradient computation subgraph an
 5. Version model artifact with training configuration metadata.
 6. Verify that `app/model.py` points to the correct COVID radiography model artifact.
 7. Confirm that CLASS_NAMES order matches the label encoder order from training.
+---
+## Results (Downloadable file)
+
+[![Video Thumbnail](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAER1SFputzcZ5e2RAFFZskPRg_5VUmz0QACVSIAAud12VVD6NROjS9l6ToE.jpg)](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAER1SJput08FGlZCYYNEXdwNMKA_qgzgQACViIAAud12VW7sfHpfRfvCzoE.mp4)
