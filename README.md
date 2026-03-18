@@ -232,4 +232,4 @@ Performance is optimized through caching of the gradient computation subgraph an
 ---
 ## Results (Downloadable file)
 
-[![Video Thumbnail](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAER1SFputzcZ5e2RAFFZskPRg_5VUmz0QACVSIAAud12VVD6NROjS9l6ToE.jpg)](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAER1SJput08FGlZCYYNEXdwNMKA_qgzgQACViIAAud12VW7sfHpfRfvCzoE.mp4)
+[Video of the Results -- Just click here on that link](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAER1SJput08FGlZCYYNEXdwNMKA_qgzgQACViIAAud12VW7sfRfvCzoE.mp4)
