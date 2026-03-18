@@ -1,0 +1,7 @@
+services:
+  covid-radiography-gradio:
+    build: .
+    container_name: covid-radiography-gradio
+    ports:
+      - "7860:7860"
+    restart: unless-stopped

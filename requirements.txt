@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+tensorflow==2.17.0
+numpy
+python-multipart
+pillow
+opencv-python
+gradio
+huggingface_hub
+datasets
