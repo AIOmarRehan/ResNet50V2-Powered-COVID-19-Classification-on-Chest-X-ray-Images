@@ -1,5 +1,5 @@
-![Medium Article for this Project](https://medium.com/p/766648ac32a4?postPublishedType=initial)
-![Hugging Face Deployment for this Project](https://huggingface.co/spaces/AIOmarRehan/resnet50v2-covid-xray-heatmap)
+[Medium Article for this Project](https://medium.com/p/766648ac32a4?postPublishedType=initial)
+[Hugging Face Deployment for this Project](https://huggingface.co/spaces/AIOmarRehan/resnet50v2-covid-xray-heatmap)
 ---
 # ResNet50V2 COVID 19 Radiography Classification
 
